@@ -1,5 +1,5 @@
 [package]
-name = "simple_window_manager"
+name = "rust_window_manager"
 version = "0.1.0"
 edition = "2021"
 
