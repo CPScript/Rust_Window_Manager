@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Window_Manager"
+name = "Rust_Window_Manager"
 version = "0.1.0"
 edition = "2021"
 
