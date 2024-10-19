@@ -20,7 +20,7 @@ impl WindowManager {
         let root_window = unsafe { XRootWindow(display, screen) };
 
         let window = unsafe {
-            XCreateSimpleWindow(
+            XCreaterustWindow(
                 display,
                 root_window,
                 100,
