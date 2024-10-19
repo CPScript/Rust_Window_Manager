@@ -1,0 +1,7 @@
+[package]
+name = "Rust-Window_Manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+x11 = "2.18.0"
